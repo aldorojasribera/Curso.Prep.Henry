@@ -1,0 +1,20 @@
+	
+    * Variables
+	Una variable es una forma de almacenar un valor de algo para luego poder usarlo
+	la forma mas comun de crear una variable es "var" seguida de un espacio y el nombre de la variable,
+	luego se le da el valor con el simbolo "=" el valor puede ser (un valor numerico, Strings, booleanos, etc) 
+	* Strings
+	Las "strings" son bloques de texto, siempre se definirán entre comillas, ya sea simple o doble. 
+	Cualquier texto entre comillas es una cadena o string.
+
+	* Funciones (argumentos, `return`)
+ 		son llamados objetos invocables, por lo que tienen las mismas propiedades que cualquier objeto
+ 	ARGUMENTOS  damos valor a las funciones
+ 	RETURN es el resultado de lo que se ha pedido que haga la funciones
+
+	* Declaraciones `if`
+		se utiliza como condicional si se cumple lo que se esta poniendo dentro, funciona como validador
+
+	* Valores booleanos (`true`, `false`)
+		los valores true o false son los resultado de una validacion
+		ejemplo 1+1==2  esto da true

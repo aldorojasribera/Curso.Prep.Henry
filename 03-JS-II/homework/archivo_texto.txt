@@ -5,7 +5,8 @@ el resultado de la expresion que hayamos utilizado no se cumpla. (osea false)
 
 // &&, ||, !
 && operador logico que devuelve como resultado Falso o verdadero en la comparacion 
-de expresiones y devuelve verdadero si ambas condiciones se cumplen.
+de expresiones.
+Devuelve verdadero si ambas condiciones se cumplen.
 si una de las 2 expresiones no se cumple devuelve false.
 // || operador logico que devuelve como resultado Falso o verdadero en la comparacion 
 de expresiones y devuelve verdadero si una o las dos condiciones se cumplen.

@@ -1,0 +1,15 @@
+//for
+Es una exprecion bucle, que se utiliza para poder validar el valor de una variable,
+La cual declaramos dentro del FOR y podra salir del bucle solo cuando 
+el resultado de la expresion que hayamos utilizado no se cumpla. (osea false)
+
+// &&, ||, !
+&& operador logico que devuelve como resultado Falso o verdadero en la comparacion 
+de expresiones y devuelve verdadero si ambas condiciones se cumplen.
+si una de las 2 expresiones no se cumple devuelve false.
+// || operador logico que devuelve como resultado Falso o verdadero en la comparacion 
+de expresiones y devuelve verdadero si una o las dos condiciones se cumplen.
+si no se cumplen ningunas de las dos devuelve false.
+// ! operador logico que antepone un NOT por delante, osea cambia una condicion
+positiva por negativa, devulve como valor falso o verdadero
+

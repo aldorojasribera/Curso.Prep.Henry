@@ -7,7 +7,6 @@ function obtenerMayor(x, y) {
   // Tu código:
   if (x > y)
    { return x;  }
-  
   return y;
 }
 obtenerMayor(10,9)
